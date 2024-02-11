@@ -1,0 +1,16 @@
+Accomplished:
+1. Music Playback (Supports MP3, FLAC, and WAV)
+2. Basic Control Scheme (Play, Pause, Volume Slider)
+3. Song Details (Album Art, Song Name, Artist)
+
+WIP:
+* Refine UI
+** Placeholder for songs without album art
+** Loop button
+** Implement Equalizer Settings
+*** Set Music Directory
+*** Scan Music Library
+
+Not Implemented:
+*** Playlist functionality
+
